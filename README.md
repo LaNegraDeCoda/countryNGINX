@@ -66,11 +66,12 @@ docker push your-username/your-custom-app
 ✅ Lightweight — minimal size with stable-alpine
 ✅ Easy sharing — just docker pull and go
 
-🙌 Author
-Dacodablakheart
+✌🏽 Author
+LaNegraDeCoda aka DaCoda Blak aka DaCoda Blakheart aka aka 🌞
 GitHub: (https://github.com/LaNegraDeCoda)
 Docker Hub: dacodablakheart 
 
 📜 License
 MIT — free to use, modify, and share.# countryNGINX
-Simple Country API using NGINX image 
+
+☝🏽Simple Country API using NGINX image 
