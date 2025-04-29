@@ -2,7 +2,7 @@
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/dacodablakheart/country-info-app)
 ![Docker Image Size](https://img.shields.io/docker/image-size/dacodablakheart/country-info-app/latest)
-![Docker Build Status](https://img.shields.io/docker/cloud/build/dacodablakheart/country-info-app)
+
 
 > A simple static web app to search for country details using the [RESTCountries API](https://restcountries.com) — containerized with Docker and served via `nginx:stable-alpine`.
 
